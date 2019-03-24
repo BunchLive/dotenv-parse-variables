@@ -8,5 +8,4 @@ logs
 *.log
 npm-debug.log*
 *.idea
-lib
 coverage
